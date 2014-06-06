@@ -25,7 +25,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Szykuła Artur](http://aszykula.github.io/)
 1. [Turzyński Michał](http://michalt.pl):  [teatry](http://ti.michalt.pl/mapy/), [Nightingale](http://ti.michalt.pl/nightingale/), [Slajdy](http://ti.michalt.pl/slajdy/)
 1. Wardzińska Justyna
-1. Zielke Adam
+1. [Zielke Adam](http://adamzielke.github.io/adam)
 
 [b]:http://wdenejko.github.com
 
